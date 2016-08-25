@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+.titulo {
+  position: absolute;
+  font-family: 'Ravi Prakash';
+  color: purple;
+  font-size: 100px;
+  margin-left: 450px;
+  z-index: 1;
+}
+.princesa {
+  position: absolute;
+margin-top: -355px;
+height: 328px;
+z-index: 2;
+}
+.fondo {
+  height: 707px;
+  width: 1287px;
+  z-index: 0;
+}
