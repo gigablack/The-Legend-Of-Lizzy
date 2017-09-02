@@ -7,3 +7,4 @@ function iniciar (x) {
 }
 
 evento.addEventListener("keydown",iniciar);
+//hola tavito
