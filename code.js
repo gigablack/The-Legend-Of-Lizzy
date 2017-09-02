@@ -7,3 +7,5 @@ function iniciar (x) {
 }
 
 evento.addEventListener("keydown",iniciar);
+
+//cambio uno
